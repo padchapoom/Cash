@@ -1,3 +1,3 @@
-1,000,000¢# Cash
+# Cash
 Payment options 
 zoe vailanu 
