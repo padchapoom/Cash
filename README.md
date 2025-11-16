@@ -1,1 +1,1 @@
-https://t.me/Zeus_Kucoin
+https://G-Dev/Ptatchapum.com
