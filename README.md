@@ -1,1 +1,1 @@
-BUILD:53403
+https://api.openbanking.bot.or.th/corporate/v1/clearing
