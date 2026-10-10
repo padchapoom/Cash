@@ -1,2 +1,1 @@
-KANK KOK
-010646-6483A6-5988F8
+https://api.openbanking.bot.or.th/corporate/v1/clearing
