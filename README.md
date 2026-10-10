@@ -1,2 +1,1 @@
-BUILD:53403
-GEMINI CRADLE
+https://api.openbanking.bot.or.th/corporate/v1/clearing
