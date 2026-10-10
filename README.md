@@ -1,1 +1,1 @@
-#INV202511000042
+https://api.openbanking.bot.or.th/corporate/v1/clearing
